@@ -1,0 +1,3 @@
+Da mir das skalieren der Website leider nicht gelungen ist und sie deshalb nicht wirklich responsive ist, habe ich sie auf dem Standard-Seitenverhältnis von 1920x1080 px angelegt. Demnach bitte, wenn möglich, auf 1920x1080 Monitor oder im Entwicklermodus auf 1920x1080 px anschauen. Vielen Dank!
+
+(Marten Stabenow, Matrikelnummer 3006280)
